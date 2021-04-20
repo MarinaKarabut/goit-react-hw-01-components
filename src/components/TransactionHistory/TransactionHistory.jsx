@@ -21,7 +21,7 @@ function TransactionHistory({items}) {
                         <th>Currency</th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody className={styles.tbody}>
                     {transactionElements}
                 </tbody>
             </table>
