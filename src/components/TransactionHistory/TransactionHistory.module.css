@@ -23,7 +23,7 @@
     border: 1px solid lightgray;
  }
  
-.thead tr:nth-child(even) {
+tr:nth-child(even) {
     background-color:#e9e9e9;
   } 
 
