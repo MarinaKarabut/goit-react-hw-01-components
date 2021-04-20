@@ -1,10 +1,9 @@
 import React from 'react';
 import PropTypes from "prop-types";
 import styles from './Statistics.module.css';
+import {random} from '../helpers/helpers.js';
 
-
-
-
+ 
 function Statistics({title, stats}) {
     const statElements = stats.map(({id, label, percentage}) => (
     <li className={styles.item} 
@@ -24,10 +23,6 @@ function Statistics({title, stats}) {
         </ul>
     </section>
     )
-    
-    function random() {
-        return Math.floor(Math.random() * 256)
-      }
       
 };
 
