@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.084a5ccc.chunk.css",
-    "main.js": "/static/js/main.b8a8742d.chunk.js",
-    "main.js.map": "/static/js/main.b8a8742d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5178c8a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5178c8a4.js.map",
-    "static/css/2.de71bbd8.chunk.css": "/static/css/2.de71bbd8.chunk.css",
-    "static/js/2.e909738c.chunk.js": "/static/js/2.e909738c.chunk.js",
-    "static/js/2.e909738c.chunk.js.map": "/static/js/2.e909738c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.de71bbd8.chunk.css.map": "/static/css/2.de71bbd8.chunk.css.map",
-    "static/css/main.084a5ccc.chunk.css.map": "/static/css/main.084a5ccc.chunk.css.map",
-    "static/js/2.e909738c.chunk.js.LICENSE.txt": "/static/js/2.e909738c.chunk.js.LICENSE.txt"
+    "main.css": "/MarinaKarabut/goit-react-hw-01-components/static/css/main.084a5ccc.chunk.css",
+    "main.js": "/MarinaKarabut/goit-react-hw-01-components/static/js/main.e1e89dfc.chunk.js",
+    "main.js.map": "/MarinaKarabut/goit-react-hw-01-components/static/js/main.e1e89dfc.chunk.js.map",
+    "runtime-main.js": "/MarinaKarabut/goit-react-hw-01-components/static/js/runtime-main.616d8342.js",
+    "runtime-main.js.map": "/MarinaKarabut/goit-react-hw-01-components/static/js/runtime-main.616d8342.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/MarinaKarabut/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.e909738c.chunk.js": "/MarinaKarabut/goit-react-hw-01-components/static/js/2.e909738c.chunk.js",
+    "static/js/2.e909738c.chunk.js.map": "/MarinaKarabut/goit-react-hw-01-components/static/js/2.e909738c.chunk.js.map",
+    "index.html": "/MarinaKarabut/goit-react-hw-01-components/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/MarinaKarabut/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.084a5ccc.chunk.css.map": "/MarinaKarabut/goit-react-hw-01-components/static/css/main.084a5ccc.chunk.css.map",
+    "static/js/2.e909738c.chunk.js.LICENSE.txt": "/MarinaKarabut/goit-react-hw-01-components/static/js/2.e909738c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5178c8a4.js",
+    "static/js/runtime-main.616d8342.js",
     "static/css/2.de71bbd8.chunk.css",
     "static/js/2.e909738c.chunk.js",
     "static/css/main.084a5ccc.chunk.css",
-    "static/js/main.b8a8742d.chunk.js"
+    "static/js/main.e1e89dfc.chunk.js"
   ]
 }
