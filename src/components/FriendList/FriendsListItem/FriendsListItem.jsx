@@ -1,6 +1,9 @@
 import React from 'react';
-import styles from './FriendsListItem.module.css';
 import PropTypes from "prop-types";
+
+
+
+import styles from './FriendsListItem.module.css';
 
 function FriendsListItem({avatar, name, isOnline}) {
     return (
@@ -13,6 +16,10 @@ function FriendsListItem({avatar, name, isOnline}) {
 };
 
 export default FriendsListItem;
+
+FriendsListItem.defaultProps = {
+    avatar: './404.jpeg',
+}
 
 FriendsListItem.propTypes = {
     avatar: PropTypes.string,

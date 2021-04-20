@@ -1,5 +1,7 @@
 import React from 'react';
 import PropTypes from "prop-types";
+
+
 import styles from './Profile.module.css';
 
 
@@ -37,6 +39,10 @@ function Profile({name, tag, location, avatar, stats}) {
 
 export default Profile;
 
+Profile.defaultProps = {
+  avatar: './404.jpeg',
+}
+
 Profile.propTypes = {
   name: PropTypes.string.isRequired,
   tag: PropTypes.string.isRequired,
@@ -46,5 +52,5 @@ Profile.propTypes = {
     followers: PropTypes.number.isRequired,
     views: PropTypes.number.isRequired,
     likes: PropTypes.number.isRequired,
-  })
+  }).isRequired
 }

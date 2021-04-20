@@ -31,6 +31,11 @@ function TransactionHistory({items}) {
 
 export default TransactionHistory;
 
+TransactionHistory.defaultProps = {
+    items: [],
+}
+
+
 TransactionHistory.propTypes = {
     items: PropTypes.arrayOf(
         PropTypes.shape(

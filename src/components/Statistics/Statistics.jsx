@@ -27,6 +27,9 @@ function Statistics({title, stats}) {
 };
 
 export default Statistics;
+Statistics.defaultProps = {
+    stats: [],
+}
 
 Statistics.propTypes = {
     title: PropTypes.string,
