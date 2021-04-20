@@ -25,7 +25,7 @@
 .statList{
     display: flex;
     width: 100%;
-    border-top: 1px solid rgba(128, 128, 128, 0.3);
+    border-top: 1px solid  rgba(196,201,204, 0.3);
     background-color: #f5f4fa;
 }
 
@@ -33,10 +33,9 @@
     width: calc(100% / 5);
     padding: 20px 10px;
     text-align: center;
-    background-color: aquamarine;
 }
 .item:not(:last-child) {
-    border-right: 1px solid rgba(128, 128, 128, 0.3);
+    border-right: 1px solid rgba(196,201,204, 0.3);
   }
   
 .label{
